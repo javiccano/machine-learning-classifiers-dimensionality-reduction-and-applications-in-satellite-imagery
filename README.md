@@ -2,4 +2,4 @@
 
 ## Acknowledgements
 
-University Carlos III of Madrid, Machine Learning Applications
+University Carlos III of Madrid, Machine Learning Applications.
