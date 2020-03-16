@@ -29,6 +29,8 @@ Search method, is studied. After that, a Wrapper feature selection technique is 
 using the Recursive Feature Elimination (RFE) method. We also study the performance of
 two Embedded methods: the L1-SVM regularization and the L1-Logistic Regression regularization.
 
+Data availability: contact the author.
+
 ## Acknowledgements
 
 University Carlos III of Madrid, Machine Learning Applications.
