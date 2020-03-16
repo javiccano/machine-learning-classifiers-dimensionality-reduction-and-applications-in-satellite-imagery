@@ -9,8 +9,8 @@ States.
 
 First, in terms of linear classifiers, the performance of the linear Support
 Vector Machine (SVM), Logistic Regression (LR), and Linear Discriminant Analysis (LDA) algorithms
-are studied. After that, non-linear classifiers such as K-Nearest Neighbours (K-NN), polynomial
-and gaussian SVM, and Binary Decision Tree are analyzed. Finally, ensemble classifiers
+are studied. After that, non-linear classifiers such as k-Nearest Neighbours (k-NN), polynomial
+and Gaussian kernel SVM, and Binary Decision Tree are analyzed. Finally, ensemble classifiers
 such as Bagging, including Random Forest (RF), and Boosting are studied. In order to determine the optimal parameters of these
 classifiers, the cross-validation process is used.
 
@@ -20,6 +20,14 @@ multivariate analysis methods, the performance of the Principal Component Analys
 are studied. After that, non-linear feature extraction techniques based on kernel methods such as
 Kernel Principal Component Analysis (KPCA), Kernel Partial Least Squares (KPLS), and Kernel
 Canonical Correlation Analysis (KCCA) are analyzed.
+
+Finally, several methods of feature selection
+techniques are analyzed. First, in terms of Filter methods, the performance of the Anova F-Test,
+Mutual Information, Random Forest and Hilbert-Schmidt Independence Criterion (HSIC) algorithms
+are studied. Then, the Minimum Redundancy Maximal Relevance (mRMR) algorithm, which is a
+Search method, is studied. After that, a Wrapper feature selection technique isbe analyzed,
+using the Recursive Feature Elimination (RFE) method. We also study the performance of
+two Embedded methods: the L1-SVM regularization and the L1-Logistic Regression regularization.
 
 ## Acknowledgements
 
