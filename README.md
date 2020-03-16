@@ -1,4 +1,4 @@
-# Machine Learning Classifiers and Dimensionality Reduction and Applications in Satellite Imagery
+# Machine Learning Classifiers, Dimensionality Reduction and Applications in Satellite Imagery
 
 ## Acknowledgements
 
