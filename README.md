@@ -25,7 +25,7 @@ Finally, several methods of feature selection
 techniques are analyzed. First, in terms of Filter methods, the performance of the Anova F-Test,
 Mutual Information, Random Forest and Hilbert-Schmidt Independence Criterion (HSIC) algorithms
 are studied. Then, the Minimum Redundancy Maximal Relevance (mRMR) algorithm, which is a
-Search method, is studied. After that, a Wrapper feature selection technique isbe analyzed,
+Search method, is studied. After that, a Wrapper feature selection technique is analyzed,
 using the Recursive Feature Elimination (RFE) method. We also study the performance of
 two Embedded methods: the L1-SVM regularization and the L1-Logistic Regression regularization.
 
