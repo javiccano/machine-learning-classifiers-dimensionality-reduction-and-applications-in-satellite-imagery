@@ -1,6 +1,6 @@
 # Machine Learning Classifiers, Dimensionality Reduction and Applications in Satellite Imagery
 
-In this work, we evaluate the performance of different classification
+In this work, we evaluate the performance of different machine learning strategies
 strategies to determine the crop type of a set of pixels in a multiband spectral image.
 Such spectral image was taken by sensor type AVIRIS (Airborne Visible / Infrared
 Imaging Spectrometer) on board a satellite and it covers a region of Indiana, United
