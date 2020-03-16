@@ -8,7 +8,7 @@ States.
 
 Along this work, we use different machine learning strategies,
 including k-Nearest Neighbours (k-NN), Support Vector
-Machines (SVMs) and Random Forests (RF).
+Machines (SVMs), Linear Discriminant Analysis (LDA), Decision Trees, and ensemble methods such as boosting and bagging, including Random Forests (RF).
 
 ## Acknowledgements
 
