@@ -15,7 +15,7 @@ classifiers, the cross-validation process is used.
 On the feature extraction side, several linear, non-linear, supervised and non-supervised feature extraction techniques are used. First, in terms of linear
 multivariate analysis methods, the performance of the Principal Component Analysis (PCA), Partial Least Squares
 (PLS), Canonical Correlation Analysis (CCA), and Linear Discriminant Analysis (LDA) algorithms
-are studied. After that, non-linear feature extraction techniques based on kernel methods such as
+is studied. After that, non-linear feature extraction techniques based on kernel methods such as
 Kernel Principal Component Analysis (KPCA), Kernel Partial Least Squares (KPLS), and Kernel
 Canonical Correlation Analysis (KCCA) are analyzed.
 
